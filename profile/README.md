@@ -135,7 +135,10 @@ As an organization dedicated to learning and mentorship, we are committed to mai
 
 ---
 
-<p align="center">
-  <b>QueueBits</b> &bull; <b>QueueBits-Academy</b><br>
-  &copy; 2026 QueueBits. All rights reserved.
-</p>
+<div align="center">
+
+**QueueBits** &copy; 2026. All rights reserved.
+
+_**QueueBits Academy** &bull; Empowering Future Engineers Through Accessible Knowledge_
+
+</div>
